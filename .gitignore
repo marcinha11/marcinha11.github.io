@@ -3,3 +3,7 @@ _site
 .jekyll-metadata
 node_modules/
 yarn.lock
+<<<<<<< HEAD
+=======
+.Rproj.user
+>>>>>>> 03c2c6b95aea2f40cf055e4d95719d6ca8249143
