@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3027272734",
+    "hash" : "627665869",
     "id" : "F54B089A",
-    "lastKnownWriteTime" : 1544678982,
-    "last_content_update" : 1544678982,
+    "lastKnownWriteTime" : 1565708886,
+    "last_content_update" : 1565708886413,
     "path" : "~/marcinha11.github.io/_config.yml",
     "project_path" : "_config.yml",
     "properties" : {
+        "cursorPosition" : "1,24",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
