@@ -4,7 +4,7 @@ title: "Sobre mim"
 date: 2018-11-22 12:26:40
 image:EU.jpg '
 '
-description: trajetorial'
+description: trajetoria'
 tags:
 - html
 - tutorial
