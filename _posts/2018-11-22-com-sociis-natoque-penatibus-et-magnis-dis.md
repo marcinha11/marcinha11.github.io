@@ -2,7 +2,7 @@
 layout: post
 title: "Sobre mim"
 date: 2018-11-22 12:26:40
-image: '
+image:EU.jpg '
 '
 description: trajetorial'
 tags:
