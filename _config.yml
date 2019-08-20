@@ -33,6 +33,7 @@ plugins:
   - jemoji
   - jekyll-paginate
 
+<<<<<<< HEAD
 # Links to include in menu navigation
 # For external links add external: true
 links:
@@ -45,3 +46,9 @@ links:
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
+=======
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
+theme: jekyll-theme-hacker
+>>>>>>> aa19c8cc7765d202fff3b7eb3cb9df2d2e9a6873

@@ -161,4 +161,12 @@ Did you like my work? Buy me a beer :)
 
 ## License
 
+<<<<<<< HEAD
 *Jekflix Template* is available under the MIT license. See the LICENSE file for more info.
+=======
+<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
+<p>Either way, your support is a way to thank me ❤️</p>
+<p align="center"><b>Thank you for your support!</b></p>
+theme:minimal
+ok
+>>>>>>> aa19c8cc7765d202fff3b7eb3cb9df2d2e9a6873
