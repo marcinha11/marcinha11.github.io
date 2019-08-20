@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Com sociis natoque penatibus et magnis dis"
+title: "Sobre mim"
 date: 2018-11-22 12:26:40
-image: '/assets/img/EU.jpg'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'tutorial'
+image: '
+'
+description: trajetorial'
 tags:
 - html
 - tutorial
