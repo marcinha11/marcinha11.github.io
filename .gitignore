@@ -1,9 +1,9 @@
-_site
+.idea
+.DS_Store
 .sass-cache
-.jekyll-metadata
-node_modules/
-yarn.lock
-<<<<<<< HEAD
-=======
+Gemfile.lock
+package-json.lock
+_site
+node_modules
+_drafts
 .Rproj.user
->>>>>>> 03c2c6b95aea2f40cf055e4d95719d6ca8249143

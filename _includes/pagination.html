@@ -1,35 +1,15 @@
-
-<nav class="pagination">
-  {% if paginator.previous_page %}
-
-    {% if paginator.previous_page == 1 %}
-      <a href="/">Prev</a>
-    {% else %}
-      <a href="/page{{ paginator.previous_page }}">Prev</a>
+<!-- Pagination links -->
+<div class="pagination">
+    {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous" onclick="ga('send', 'event', 'pagination', 'click', 'page previous')">
+            <svg><use xlink:href="#icon-arrow-right"></use></svg>
+        </a>
     {% endif %}
-
-  {% else %}
-    <span class="disabled">Prev</span>
-  {% endif %}
-
-  {% if paginator.page == 1 %}
-    <span class="active">1</span>
-  {% else %}
-    <a href="/">1</a>
-  {% endif %}
-
-  {% for count in (2..paginator.total_pages) %}
-
-    {% if count == paginator.page %}
-      <span class="active">{{ count }}</span>
-    {% else %}
-      <a href="/page{{ count }}">{{ count }}</a>
+    <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next" onclick="ga('send', 'event', 'pagination', 'click', 'page next')">
+            <svg><use xlink:href="#icon-arrow-right"></use></svg>
+        </a>
     {% endif %}
-  {% endfor %}
+</div>
 
-  {% if paginator.next_page %}
-    <a href="/page{{ paginator.next_page }}">Next</a>
-  {% else %}
-    <span class="disabled">Next</span>
-  {% endif %}
-</nav> <!-- End Section Pagination -->
