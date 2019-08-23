@@ -1,7 +1,7 @@
 ---
-title:  "Courses"
-subtitle: "Disciplines offered"
-author: "Fernando de Souza Bastos"
+title:  "Diversos"
+subtitle: ""
+author: "Marcia Moraes Rodrigues"
 avatar: "img/authors/IMG_FSB.jpg"
 image: "img/courses.jpg"
 date:   2019-07-29 12:12:12
