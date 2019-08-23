@@ -2,10 +2,10 @@
 layout: page
 title: About
 description: Some description.
-permalink: /about/
+permalink:/about/
 ---
 
-<img itemprop="image" class="img-rounded" src="/assets/img/blog-image.png" alt="Your Name">
+<img itemprop="image" class="img-rounded" src="/assets/EU.jpg" alt="Your Name">
 
 ## About
 
