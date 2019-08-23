@@ -9,7 +9,7 @@ date:   2019-07-29 12:12:12
 
 ### Who am I?
 
-###
+
 
 Eu sou aluna do curso de licenciatura em matemática pela Universidade Federal de Viçosa-campus Florestal.
-Atualmente participo do programa ResIdênica Pedagigica.
+Atualmente participo do programa Residênica Pedagógica.
