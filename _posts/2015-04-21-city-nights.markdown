@@ -1,7 +1,7 @@
 ---
 title:  "Sobre mim"
 #subtitle: "A Beautiful shot during the night."
-author: "Wferr"
+author: "Olá"
 avatar: "img/authors/IMG_FSB.png"
 image: "img/family.jpg"
 date:   2019-07-29 12:12:12
